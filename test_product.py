@@ -9,4 +9,3 @@ def test_product_info():
     )
     result = product_info("P102", "Keyboard", 5, 799.5)
     assert result == expected_output
-  
